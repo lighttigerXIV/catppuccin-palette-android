@@ -5,7 +5,9 @@
 </div>
 
 ## About
-The app gives you catppuccin color palette right from the app. Removing the need to search for the palette on the phone.
+The app gives you catppuccin color palette right from the app. Removing the need to search for the palette on the phone. The colors are provided by the [Catppuccin-KT](https://github.com/lighttigerXIV/catppuccin-kt) library
+
+## Previews
 
 <div align="center">
   <img width="180" src="https://github.com/lighttigerXIV/catppuccin-palette-android/assets/35658492/294178f1-0b81-488c-aa8e-9d8dad6c3c04">
